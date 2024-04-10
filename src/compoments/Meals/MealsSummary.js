@@ -9,7 +9,7 @@ const MealsSummary = () => {
          sense of nostalgia and warmth. Renowned for its homely 
         ambiance and authentic flavors, Baba Ka Dhaba offers a gastronomic journey like no other.</p>
 
-        <p> . From aromatic curries bursting with spices to tender kebabs sizzling on the grill, 
+        <p>From aromatic curries bursting with spices to tender kebabs sizzling on the grill, 
             each dish at this beloved establishment is crafted with love and expertise, reflecting 
             the rich culinary heritage of the region. Patrons are greeted with the tantalizing aroma
             of freshly prepared meals, drawing them in to experience the culinary delights that await.</p>
